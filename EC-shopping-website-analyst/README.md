@@ -1,44 +1,5 @@
-# My-AI-Learning-project
-
-### Data Mining
-- Content Comprehension and User Behavior
-  - Analysis of Short Video Users’ Activity Level Based on RNN Model
-  - News Keyword Extraction Model Based on textrank and Doc2vec
-  - User Sensitivity Classification Based on XGBoost Model
-
-- Smart City and Industrial Applications
-  - Industrial Production Prediction Based on XGB Model
-  - Smart City Road Travel Time Prediction Based on xgboost Model
-- Finance and Risk Control
-  - Home Credit Default Risk
-  - Financial Risk Control Model for Loan Platforms
-- Medical Health and Bio - information
-  - heart_disease_risk_factors
-- Feature Selection Case
-  - Partial Dependence Plots
-- Common Construction Methods for Data Features.
-  - Numerical Features
-  - Feature Preprocessing
-  - Image Features
-  - Text Features
-
-### LLM
-- Kaggle - LLM Science Exam
-### NLP
-- Text-Segmentation-WordCloud
-- Netease_Music_Comment_Spider
-- Sina_News_Comment__Data_Science_Projects
-- InteractiveGraph_HongLouMeng
-- relationship_Neo4j
-
-### Computer Vision
-- OpenCV learning and project
- - Chapter 1: Project Practice - Credit Card Digit Recognition
- - Chapter 2: Project Practice - Document Scanning OCR Recognition
- - Chapter 3: Project Practice - Panoramic Image Stitching
- - Chapter 4: Project Practice - Parking Space Detection in Parking Lots
- - Chapter 5: Project Practice - Answer - sheet Recognition and Marking
- - Chapter 6: Project Practice - Target Tracking
- - Chapter 7: Project Practice - Facial Key point Detection
- - Chapter 8: Project Practice - Fatigue Detection
-### Recommender system
+# EC
+This section originally focused on traditional e-commerce data analysis, brick-and-mortar retail data analysis, as well as cross-border e-commerce product selection and marketing strategies. Moving forward, I'm considering switching to video links instead. After all, they can't take down my YouTube videos.
+My old five-year account contained extensive real-world business code. But since it was suspended, and because my computer has been mysteriously flagged, uploading and pulling code has become difficult.
+According to GitHub's policy, if I don't receive any response to my appeal within 90 days, my old account will be deleted. At that point, the IP address from my computer might be unblocked. For now, it's nearly impossible for me to rebuild everything I had before in a short timeframe.
+I don't plan to buy a new computer. Since both my account and IP were blocked without explanation, I don't want to waste my efforts. I'm worried about putting in all that work only to mysteriously lose access to a new account again.
